@@ -1,0 +1,23 @@
+{
+  "name": "digital-clock-p1",
+  "version": "1.0.0",
+  "description": "Basic Digital Clock",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skhull-coding/Digital-Clock-p1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/skhull-coding/Digital-Clock-p1/issues"
+  },
+  "homepage": "https://github.com/skhull-coding/Digital-Clock-p1#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.2.4"
+  }
+}
